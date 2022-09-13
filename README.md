@@ -1,5 +1,6 @@
-I’m currently working on a Full-Stack Engineer career path at Codecademy and this repo was created for the course.<br>
+I’m currently working on becoming a certified AWS Certified Solutions Architect - Associate (SAA-C02).<br>
 
+- [A Cloud Guru profile](https://learn.acloud.guru/profile/nickcernak)
 - [Full-Stack Engineer Course](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)<br>
 - [My Codecademy Profile](https://codecademy.com/profiles/cernak)<br>
 - [LinkedIn Profile](https://www.linkedin.com/in/nickcernak/)<br>
