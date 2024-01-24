@@ -1,2 +1,2 @@
-Currently looking for full time employment opportunties.
+Available for full time employment opportunties.
 
