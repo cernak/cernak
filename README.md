@@ -1,1 +1,1 @@
-Web Developer/Designer/Engineer available for Web3 full time opportunities
+Full Stack Developer + Web Designer available for Web3 full time opportunities.
