@@ -1,6 +1,6 @@
 # Hello, Thank You for Visiting 👋
 
-I'm a full-stack web developer and UX/UI designer with a passion for learning, coding, and designing exceptional digital experiences. With over fifteen years of hands-on experience, I've honed my skills in various aspects of web development, e-commerce, SEO, WordPress theme/plugin development, hosting, and troubleshooting. My expertise extends to both web and mobile development, with an emphasis on ensuring optimal user experiences through UX/UI design and accessibility.
+I'm a web developer and UX/UI designer with a passion for learning, coding, and designing exceptional digital experiences. With over fifteen years of hands-on experience, I've honed my skills in various aspects of web development, e-commerce, SEO, WordPress theme/plugin development, hosting, and troubleshooting. My expertise extends to both web and mobile development, with an emphasis on ensuring optimal user experiences through UX/UI design and accessibility.
 
 ## Key Skills:
  
